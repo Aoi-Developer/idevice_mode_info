@@ -1,0 +1,2 @@
+# idevice_mode_info
+iDeviceのモードを表示するだけ
